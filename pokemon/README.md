@@ -1,5 +1,5 @@
 # Pokemon Api And Axios 
 
-![preview img](/pokemon/rastgele-metin.png)
+![preview img](/pokemon/pokemon.png)
 
 
